@@ -37,7 +37,7 @@ namespace Prime_Number
 
         private static void Prime()
         {
-            Console.WriteLine("Enter your number: ");
+            Console.WriteLine("Enter the maximum number: ");
             int n = int.Parse(Console.ReadLine());
             
             SieveOfEratosthenes(n);
@@ -50,9 +50,11 @@ namespace Prime_Number
 
             bool[] prime = new bool[n + 1];
 
+            //List all number from 0 to given numbers.
             for (int i = 0; i <= n; i++)
                 prime[i] = true;
 
+            //Check non Prime Numbers.
             for (int p = 2; p * p <= n; p++)
             {
                 
