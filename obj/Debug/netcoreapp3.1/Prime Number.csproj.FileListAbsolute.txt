@@ -1,0 +1,26 @@
+C:\Users\asus\Desktop\Prime Number\Prime Number\bin\Debug\netcoreapp3.1\Prime Number.exe
+C:\Users\asus\Desktop\Prime Number\Prime Number\bin\Debug\netcoreapp3.1\Prime Number.deps.json
+C:\Users\asus\Desktop\Prime Number\Prime Number\bin\Debug\netcoreapp3.1\Prime Number.runtimeconfig.json
+C:\Users\asus\Desktop\Prime Number\Prime Number\bin\Debug\netcoreapp3.1\Prime Number.runtimeconfig.dev.json
+C:\Users\asus\Desktop\Prime Number\Prime Number\bin\Debug\netcoreapp3.1\Prime Number.dll
+C:\Users\asus\Desktop\Prime Number\Prime Number\bin\Debug\netcoreapp3.1\Prime Number.pdb
+C:\Users\asus\Desktop\Prime Number\Prime Number\obj\Debug\netcoreapp3.1\Prime Number.csprojAssemblyReference.cache
+C:\Users\asus\Desktop\Prime Number\Prime Number\obj\Debug\netcoreapp3.1\Prime Number.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\Prime Number\Prime Number\obj\Debug\netcoreapp3.1\Prime Number.AssemblyInfo.cs
+C:\Users\asus\Desktop\Prime Number\Prime Number\obj\Debug\netcoreapp3.1\Prime Number.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\Prime Number\Prime Number\obj\Debug\netcoreapp3.1\Prime Number.dll
+C:\Users\asus\Desktop\Prime Number\Prime Number\obj\Debug\netcoreapp3.1\Prime Number.pdb
+C:\Users\asus\Desktop\Prime Number\Prime Number\obj\Debug\netcoreapp3.1\Prime Number.genruntimeconfig.cache
+C:\Users\asus\Desktop\Prime Number (1)\Prime Number\Prime Number\bin\Debug\netcoreapp3.1\Prime Number.exe
+C:\Users\asus\Desktop\Prime Number (1)\Prime Number\Prime Number\bin\Debug\netcoreapp3.1\Prime Number.deps.json
+C:\Users\asus\Desktop\Prime Number (1)\Prime Number\Prime Number\bin\Debug\netcoreapp3.1\Prime Number.runtimeconfig.json
+C:\Users\asus\Desktop\Prime Number (1)\Prime Number\Prime Number\bin\Debug\netcoreapp3.1\Prime Number.runtimeconfig.dev.json
+C:\Users\asus\Desktop\Prime Number (1)\Prime Number\Prime Number\bin\Debug\netcoreapp3.1\Prime Number.dll
+C:\Users\asus\Desktop\Prime Number (1)\Prime Number\Prime Number\bin\Debug\netcoreapp3.1\Prime Number.pdb
+C:\Users\asus\Desktop\Prime Number (1)\Prime Number\Prime Number\obj\Debug\netcoreapp3.1\Prime Number.csprojAssemblyReference.cache
+C:\Users\asus\Desktop\Prime Number (1)\Prime Number\Prime Number\obj\Debug\netcoreapp3.1\Prime Number.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\Prime Number (1)\Prime Number\Prime Number\obj\Debug\netcoreapp3.1\Prime Number.AssemblyInfo.cs
+C:\Users\asus\Desktop\Prime Number (1)\Prime Number\Prime Number\obj\Debug\netcoreapp3.1\Prime Number.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\Prime Number (1)\Prime Number\Prime Number\obj\Debug\netcoreapp3.1\Prime Number.dll
+C:\Users\asus\Desktop\Prime Number (1)\Prime Number\Prime Number\obj\Debug\netcoreapp3.1\Prime Number.pdb
+C:\Users\asus\Desktop\Prime Number (1)\Prime Number\Prime Number\obj\Debug\netcoreapp3.1\Prime Number.genruntimeconfig.cache
